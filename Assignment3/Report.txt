@@ -1,0 +1,15 @@
+SimpleDFS
+Total number of visited nodes = 32059
+Total number of failed nodes = 16029
+
+SplitSearch_task3
+Total number of visited nodes = 41847
+Total number of failed nodes = 20923
+
+SplitSearch_task4
+Total number of visited nodes = 178937
+Total number of failed nodes = 89468
+
+DFS_task5
+Total number of visited nodes = 31929
+Total number of failed nodes = 15958

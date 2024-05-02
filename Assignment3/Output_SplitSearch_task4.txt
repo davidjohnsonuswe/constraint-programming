@@ -1,0 +1,180 @@
+Program to solve Golomb2 mark problem - length 10
+Nodes visited: 54
+Cost is n9 = 100
+n0 = 0 n1 = 1 n2 = 44 n3 = 66 n4 = 77 n5 = 85 n6 = 91 n7 = 95 n8 = 98 n9 = 100
+---------------
+Nodes visited: 142
+Cost is n9 = 99
+n0 = 0 n1 = 1 n2 = 48 n3 = 65 n4 = 76 n5 = 84 n6 = 90 n7 = 94 n8 = 97 n9 = 99
+---------------
+Nodes visited: 235
+Cost is n9 = 98
+n0 = 0 n1 = 1 n2 = 44 n3 = 64 n4 = 75 n5 = 83 n6 = 89 n7 = 93 n8 = 96 n9 = 98
+---------------
+Nodes visited: 322
+Cost is n9 = 97
+n0 = 0 n1 = 1 n2 = 47 n3 = 63 n4 = 74 n5 = 82 n6 = 88 n7 = 92 n8 = 95 n9 = 97
+---------------
+Nodes visited: 411
+Cost is n9 = 96
+n0 = 0 n1 = 1 n2 = 45 n3 = 62 n4 = 73 n5 = 81 n6 = 87 n7 = 91 n8 = 94 n9 = 96
+---------------
+Nodes visited: 500
+Cost is n9 = 95
+n0 = 0 n1 = 1 n2 = 44 n3 = 61 n4 = 72 n5 = 80 n6 = 86 n7 = 90 n8 = 93 n9 = 95
+---------------
+Nodes visited: 588
+Cost is n9 = 94
+n0 = 0 n1 = 1 n2 = 44 n3 = 60 n4 = 71 n5 = 79 n6 = 85 n7 = 89 n8 = 92 n9 = 94
+---------------
+Nodes visited: 679
+Cost is n9 = 93
+n0 = 0 n1 = 1 n2 = 43 n3 = 59 n4 = 70 n5 = 78 n6 = 84 n7 = 88 n8 = 91 n9 = 93
+---------------
+Nodes visited: 766
+Cost is n9 = 92
+n0 = 0 n1 = 1 n2 = 41 n3 = 58 n4 = 69 n5 = 77 n6 = 83 n7 = 87 n8 = 90 n9 = 92
+---------------
+Nodes visited: 856
+Cost is n9 = 91
+n0 = 0 n1 = 1 n2 = 40 n3 = 57 n4 = 68 n5 = 76 n6 = 82 n7 = 86 n8 = 89 n9 = 91
+---------------
+Nodes visited: 943
+Cost is n9 = 90
+n0 = 0 n1 = 1 n2 = 40 n3 = 56 n4 = 67 n5 = 75 n6 = 81 n7 = 85 n8 = 88 n9 = 90
+---------------
+Nodes visited: 1032
+Cost is n9 = 89
+n0 = 0 n1 = 1 n2 = 39 n3 = 55 n4 = 66 n5 = 74 n6 = 80 n7 = 84 n8 = 87 n9 = 89
+---------------
+Nodes visited: 1119
+Cost is n9 = 88
+n0 = 0 n1 = 1 n2 = 38 n3 = 54 n4 = 65 n5 = 73 n6 = 79 n7 = 83 n8 = 86 n9 = 88
+---------------
+Nodes visited: 1205
+Cost is n9 = 87
+n0 = 0 n1 = 1 n2 = 37 n3 = 53 n4 = 64 n5 = 72 n6 = 78 n7 = 82 n8 = 85 n9 = 87
+---------------
+Nodes visited: 1295
+Cost is n9 = 86
+n0 = 0 n1 = 1 n2 = 28 n3 = 52 n4 = 63 n5 = 71 n6 = 77 n7 = 81 n8 = 84 n9 = 86
+---------------
+Nodes visited: 1379
+Cost is n9 = 85
+n0 = 0 n1 = 1 n2 = 27 n3 = 51 n4 = 62 n5 = 70 n6 = 76 n7 = 80 n8 = 83 n9 = 85
+---------------
+Nodes visited: 1462
+Cost is n9 = 84
+n0 = 0 n1 = 1 n2 = 28 n3 = 50 n4 = 61 n5 = 69 n6 = 75 n7 = 79 n8 = 82 n9 = 84
+---------------
+Nodes visited: 1544
+Cost is n9 = 83
+n0 = 0 n1 = 1 n2 = 27 n3 = 49 n4 = 60 n5 = 68 n6 = 74 n7 = 78 n8 = 81 n9 = 83
+---------------
+Nodes visited: 1629
+Cost is n9 = 82
+n0 = 0 n1 = 1 n2 = 31 n3 = 48 n4 = 59 n5 = 67 n6 = 73 n7 = 77 n8 = 80 n9 = 82
+---------------
+Nodes visited: 1714
+Cost is n9 = 81
+n0 = 0 n1 = 1 n2 = 31 n3 = 47 n4 = 58 n5 = 66 n6 = 72 n7 = 76 n8 = 79 n9 = 81
+---------------
+Nodes visited: 1798
+Cost is n9 = 80
+n0 = 0 n1 = 1 n2 = 28 n3 = 45 n4 = 57 n5 = 65 n6 = 71 n7 = 75 n8 = 78 n9 = 80
+---------------
+Nodes visited: 1882
+Cost is n9 = 79
+n0 = 0 n1 = 1 n2 = 17 n3 = 45 n4 = 56 n5 = 64 n6 = 70 n7 = 74 n8 = 77 n9 = 79
+---------------
+Nodes visited: 1962
+Cost is n9 = 78
+n0 = 0 n1 = 1 n2 = 27 n3 = 44 n4 = 55 n5 = 63 n6 = 69 n7 = 73 n8 = 76 n9 = 78
+---------------
+Nodes visited: 2045
+Cost is n9 = 77
+n0 = 0 n1 = 1 n2 = 17 n3 = 43 n4 = 54 n5 = 62 n6 = 68 n7 = 72 n8 = 75 n9 = 77
+---------------
+Nodes visited: 2126
+Cost is n9 = 76
+n0 = 0 n1 = 1 n2 = 25 n3 = 41 n4 = 53 n5 = 61 n6 = 67 n7 = 71 n8 = 74 n9 = 76
+---------------
+Nodes visited: 2206
+Cost is n9 = 75
+n0 = 0 n1 = 1 n2 = 17 n3 = 41 n4 = 52 n5 = 60 n6 = 66 n7 = 70 n8 = 73 n9 = 75
+---------------
+Nodes visited: 2283
+Cost is n9 = 74
+n0 = 0 n1 = 1 n2 = 17 n3 = 39 n4 = 51 n5 = 59 n6 = 65 n7 = 69 n8 = 72 n9 = 74
+---------------
+Nodes visited: 2357
+Cost is n9 = 73
+n0 = 0 n1 = 1 n2 = 17 n3 = 39 n4 = 50 n5 = 58 n6 = 64 n7 = 68 n8 = 71 n9 = 73
+---------------
+Nodes visited: 2528
+Cost is n9 = 72
+n0 = 0 n1 = 1 n2 = 20 n3 = 33 n4 = 49 n5 = 55 n6 = 63 n7 = 67 n8 = 70 n9 = 72
+---------------
+Nodes visited: 2599
+Cost is n9 = 71
+n0 = 0 n1 = 1 n2 = 17 n3 = 37 n4 = 48 n5 = 56 n6 = 62 n7 = 66 n8 = 69 n9 = 71
+---------------
+Nodes visited: 2705
+Cost is n9 = 70
+n0 = 0 n1 = 1 n2 = 12 n3 = 20 n4 = 38 n5 = 55 n6 = 61 n7 = 65 n8 = 68 n9 = 70
+---------------
+Nodes visited: 2813
+Cost is n9 = 69
+n0 = 0 n1 = 1 n2 = 11 n3 = 33 n4 = 46 n5 = 52 n6 = 60 n7 = 64 n8 = 67 n9 = 69
+---------------
+Nodes visited: 2882
+Cost is n9 = 68
+n0 = 0 n1 = 1 n2 = 12 n3 = 29 n4 = 45 n5 = 53 n6 = 59 n7 = 63 n8 = 66 n9 = 68
+---------------
+Nodes visited: 3024
+Cost is n9 = 67
+n0 = 0 n1 = 1 n2 = 14 n3 = 24 n4 = 30 n5 = 50 n6 = 58 n7 = 62 n8 = 65 n9 = 67
+---------------
+Nodes visited: 3101
+Cost is n9 = 66
+n0 = 0 n1 = 1 n2 = 12 n3 = 20 n4 = 34 n5 = 51 n6 = 57 n7 = 61 n8 = 64 n9 = 66
+---------------
+Nodes visited: 3351
+Cost is n9 = 65
+n0 = 0 n1 = 1 n2 = 13 n3 = 21 n4 = 31 n5 = 37 n6 = 56 n7 = 60 n8 = 63 n9 = 65
+---------------
+Nodes visited: 3738
+Cost is n9 = 64
+n0 = 0 n1 = 1 n2 = 8 n3 = 18 n4 = 22 n5 = 34 n6 = 53 n7 = 59 n8 = 62 n9 = 64
+---------------
+Nodes visited: 3901
+Cost is n9 = 63
+n0 = 0 n1 = 1 n2 = 12 n3 = 18 n4 = 26 n5 = 39 n6 = 54 n7 = 58 n8 = 61 n9 = 63
+---------------
+Nodes visited: 4029
+Cost is n9 = 62
+n0 = 0 n1 = 1 n2 = 11 n3 = 19 n4 = 25 n5 = 40 n6 = 53 n7 = 57 n8 = 60 n9 = 62
+---------------
+Nodes visited: 4151
+Cost is n9 = 61
+n0 = 0 n1 = 1 n2 = 11 n3 = 17 n4 = 29 n5 = 37 n6 = 52 n7 = 56 n8 = 59 n9 = 61
+---------------
+Nodes visited: 6748
+Cost is n9 = 60
+n0 = 0 n1 = 1 n2 = 10 n3 = 16 n4 = 28 n5 = 36 n6 = 39 n7 = 53 n8 = 58 n9 = 60
+---------------
+Nodes visited: 15920
+Cost is n9 = 59
+n0 = 0 n1 = 2 n2 = 8 n3 = 13 n4 = 22 n5 = 23 n6 = 40 n7 = 52 n8 = 56 n9 = 59
+---------------
+Nodes visited: 23668
+Cost is n9 = 58
+n0 = 0 n1 = 2 n2 = 15 n3 = 21 n4 = 22 n5 = 32 n6 = 46 n7 = 50 n8 = 55 n9 = 58
+---------------
+Nodes visited: 133300
+Cost is n9 = 55
+n0 = 0 n1 = 1 n2 = 6 n3 = 10 n4 = 23 n5 = 26 n6 = 34 n7 = 41 n8 = 53 n9 = 55
+---------------
+Total number of visited nodes = 178937
+Total number of failed nodes = 89468
+an optimal solution was found

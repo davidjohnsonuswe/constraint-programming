@@ -1,1 +1,1 @@
-# constrain-programming
+Constraint Programming - LTH course

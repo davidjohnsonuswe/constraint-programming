@@ -1,0 +1,44 @@
+Program to solve Golomb mark problem - length 10
+Nodes visited: 11
+Cost is n9 = 80
+n0 = 0 n1 = 1 n2 = 3 n3 = 7 n4 = 12 n5 = 20 n6 = 30 n7 = 44 n8 = 65 n9 = 80
+---------------
+Nodes visited: 27
+Cost is n9 = 75
+n0 = 0 n1 = 1 n2 = 3 n3 = 7 n4 = 12 n5 = 20 n6 = 34 n7 = 49 n8 = 59 n9 = 75
+---------------
+Nodes visited: 51
+Cost is n9 = 73
+n0 = 0 n1 = 1 n2 = 3 n3 = 7 n4 = 12 n5 = 22 n6 = 35 n7 = 49 n8 = 65 n9 = 73
+---------------
+Nodes visited: 101
+Cost is n9 = 72
+n0 = 0 n1 = 1 n2 = 3 n3 = 7 n4 = 12 n5 = 26 n6 = 41 n7 = 54 n8 = 62 n9 = 72
+---------------
+Nodes visited: 187
+Cost is n9 = 70
+n0 = 0 n1 = 1 n2 = 3 n3 = 7 n4 = 15 n5 = 24 n6 = 34 n7 = 54 n8 = 59 n9 = 70
+---------------
+Nodes visited: 323
+Cost is n9 = 68
+n0 = 0 n1 = 1 n2 = 3 n3 = 7 n4 = 15 n5 = 31 n6 = 36 n7 = 49 n8 = 58 n9 = 68
+---------------
+Nodes visited: 581
+Cost is n9 = 66
+n0 = 0 n1 = 1 n2 = 3 n3 = 7 n4 = 17 n5 = 22 n6 = 35 n7 = 46 n8 = 58 n9 = 66
+---------------
+Nodes visited: 757
+Cost is n9 = 62
+n0 = 0 n1 = 1 n2 = 3 n3 = 7 n4 = 18 n5 = 30 n6 = 38 n7 = 43 n8 = 52 n9 = 62
+---------------
+Nodes visited: 2721
+Cost is n9 = 60
+n0 = 0 n1 = 1 n2 = 3 n3 = 11 n4 = 17 n5 = 29 n6 = 36 n7 = 51 n8 = 56 n9 = 60
+---------------
+Nodes visited: 16057
+Cost is n9 = 55
+n0 = 0 n1 = 1 n2 = 6 n3 = 10 n4 = 23 n5 = 26 n6 = 34 n7 = 41 n8 = 53 n9 = 55
+---------------
+Total number of visited nodes = 32059
+Total number of failed nodes = 16029
+an optimal solution was found

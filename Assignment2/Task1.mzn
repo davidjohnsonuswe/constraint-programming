@@ -1,0 +1,32 @@
+% Use this editor as a MiniZinc scratch book
+include "globals.mzn";
+
+int: graph_size;
+int: start;
+int: n_dests;
+array[1..n_dests] of int: dest;
+int: n_edges;
+array[1..n_edges] of int: cities_1;
+array[1..n_edges] of int: cities_2;
+array[1..n_edges] of int: cost;
+
+% Create an array with 2 rows (cities_1 and cities_2)
+array[1..2, 1..n_edges] of int: arcArray  = array2d(1..2, 1..n_edges, (cities_1 ++ cities_2));
+% Create arc array with n_edges rows, each element is [cities_1[i],cities_2[i]]
+array[1..n_edges, 1..2] of int: arcs = array2d(1..n_edges, 1..2,[arcArray[j, i] | i in 1..n_edges, j in 1..2]);
+array[1..n_edges] of var -n_dests..n_dests: flows;
+
+array[1..graph_size] of int: balances = [
+% start to n_dests
+if start == i then n_dests
+% sink
+elseif exists(j in 1..n_dests)(dest[j] == i) then -1
+% normal
+else 0 endif |i in 1..graph_size];
+
+constraint network_flow(arcs, balances, flows);
+    
+var int: totalCost = sum([cost[i] | i in 1..n_edges where flows[i] != 0]);
+solve minimize totalCost;
+
+output[ show(totalCost) ];

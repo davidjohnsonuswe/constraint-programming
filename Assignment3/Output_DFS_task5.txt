@@ -1,0 +1,6 @@
+Labeling has finished with return value of false
+Solution cost is 55
+DFS1: DFS([n0 = 0, n1 = 1, n2 = 6, n3 = 10, n4 = 23, n5 = 26, n6 = 34, n7 = 41, n8 = 53, n9 = 55], InputOrder, (org.jacop.search.IndomainMin@2401f4c3))
+Total number of visited nodes = 31929
+Total number of failed nodes = 15958
+the search aborted early, optimallity was not proven

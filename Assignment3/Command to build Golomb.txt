@@ -1,0 +1,16 @@
+javac -cp jacop.jar SimpleDFS.java Golomb.java
+
+java -cp jacop.jar;. Golomb
+
+
+javac -cp jacop.jar SplitSearch.java Golomb.java
+
+java -cp jacop.jar;. Golomb
+
+javac -cp jacop.jar SplitSearch2.java Golomb2.java
+
+java -cp jacop.jar;. Golomb2
+
+Buildin
+javac -cp jacop.jar Golomb_Jacop.java
+java -cp jacop.jar;. Golomb_Jacop
